@@ -1,0 +1,16 @@
+{
+    "development" : {
+        "username" : "cesar",
+        "password" : "242016Enero-",
+        "database" : "sequelize",
+        "host" : "localhost",
+        "dialect" : "mysql"
+    },
+    "staging":{
+        "username" : "cesar",
+        "password" : "242016Enero-",
+        "database" : "sequelize",
+        "host" : "localhost",
+        "dialect" : "mysql"
+    }
+}
